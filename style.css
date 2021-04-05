@@ -61,7 +61,7 @@
 }
 /* Heading */
 .list-title,
-.label[for='new-task-input'] {
+.label[for="new-task-input"] {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -87,7 +87,7 @@
 }
 
 /* New Task */
-.label[for='new-task-input'] {
+.label[for="new-task-input"] {
   display: block;
   margin: 0 0 20px;
 }
@@ -136,11 +136,11 @@
 }
 
 /* Edit Task */
-.list .list-item .input[type=text] {
+.list .list-item .input[type="text"] {
   display: none;
 }
 
-.list .list-item_edit-mode .input[type=text] {
+.list .list-item_edit-mode .input[type="text"] {
   display: inline-block;
   width: 224px;
 }
